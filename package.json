@@ -6,7 +6,7 @@
   "bugs": "https://github.com/Dekoruma/react-native-web-modal/issues",
   "author": "Ray Andrew <raydreww@gmail.com>",
   "license": "MIT",
-  "private": true,
+  "private": false,
   "scripts": {
     "bootstrap": "lerna bootstrap",
     "clean:allnode": "yarn clean:all && rimraf node_modules",
