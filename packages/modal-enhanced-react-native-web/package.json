@@ -1,5 +1,5 @@
 {
-  "name": "modal-enhanced-react-native-web-scroll-fixed",
+  "name": "modal-enhanced-react-native-web",
   "version": "0.2.0",
   "description": "React native modal enhanced for web",
   "main": "dist/index.js",
