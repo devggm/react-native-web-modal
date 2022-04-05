@@ -1,4 +1,5 @@
 {
+  "name": "modal-enahanced-web-scroll-fixed",
   "version": "0.0.2-0",
   "description": "React native modal for web",
   "repository": "https://github.com/Dekoruma/react-native-web-modal",
