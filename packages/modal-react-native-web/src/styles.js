@@ -8,6 +8,7 @@ export default StyleSheet.create({
     bottom: 0,
     left: 0,
     zIndex: 9999,
+    overflow: 'scroll',
   },
   bgTransparent: {
     backgroundColor: 'transparent',
